@@ -1,0 +1,12 @@
+{
+  "name": "discord-role-manager",
+  "version": "1.0.0",
+  "description": "Discord klan etiketine göre rol yönetimi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.6.1"
+  }
+}
